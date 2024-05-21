@@ -1,0 +1,30 @@
+ID: 1
+Species: 1
+Age: 1
+Birth Year: 1
+Habitat: 1
+Hobbies: 1
+Sound: 1
+Threat Level: 1
+Population: 1
+Reproduction Rate: 1
+Gender: Male
+Death Year: 1
+Food Type: 1
+Color: 1
+Vaccine Reaction: Yes
+Reproductive Characteristic: 1
+Nationality: 1
+Fur Type: 1
+Body Structure: 1
+Weight: 1
+Height: 1
+Health Status: 1
+Feeding Frequency: 1
+Diseases: 1
+Personality: 1
+Reproductive Health: 1
+Rarity Level: 1
+Mood Status: 1
+Body Temperature: 1
+

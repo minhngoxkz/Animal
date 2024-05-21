@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1716295232 source:c:\users\lenovo\desktop\doanoop\animal\animal.cpp
+	"Animal.h"
+	<bits/stdc++.h>
+
+1716295302 c:\users\lenovo\desktop\doanoop\animal\animal.h
+	<bits/stdc++.h>
+
+1716294005 source:c:\users\lenovo\desktop\doanoop\animal\bird.cpp
+	<bits/stdc++.h>
+	"Animal.h"
+	"Bird.h"
+
+1716293941 c:\users\lenovo\desktop\doanoop\animal\bird.h
+	<bits/stdc++.h>
+	"Animal.h"
+
+1716294005 source:c:\users\lenovo\desktop\doanoop\animal\cat.cpp
+	<bits/stdc++.h>
+	"Animal.h"
+	"Cat.h"
+
+1716294005 c:\users\lenovo\desktop\doanoop\animal\cat.h
+	<bits/stdc++.h>
+	"Animal.h"
+
+1716294005 source:c:\users\lenovo\desktop\doanoop\animal\dog.cpp
+	<bits/stdc++.h>
+	"Animal.h"
+	"Dog.h"
+
+1716294005 c:\users\lenovo\desktop\doanoop\animal\dog.h
+	<bits/stdc++.h>
+	"Animal.h"
+
+1716300068 source:c:\users\lenovo\desktop\doanoop\animal\main.cpp
+	<bits/stdc++.h>
+	"ListOfAnimal.h"
+
+1716308173 source:c:\users\lenovo\desktop\doanoop\animal\listofanimal.cpp
+	<bits/stdc++.h>
+	"ListOfAnimal.h"
+
+1716308130 c:\users\lenovo\desktop\doanoop\animal\listofanimal.h
+	<bits/stdc++.h>
+	"Animal.h"
+	"Cat.h"
+	"Bird.h"
+	"Dog.h"
+
